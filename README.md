@@ -99,6 +99,4 @@ the Icon Picker in your own plugin just drop the entire "icon-picker" folder int
 above.  Again, note that this example does NOT include the actual fonts!  Download them at the links above, drop them into the "icon-picker/fonts/" directory 
 and enqueue them from there on both your Admin area and the front-end.
 
-## Thanks ##
 
-Adapted from [Dashicons Picker](https://github.com/bradvin/dashicons-picker) by Brad Vincent @ http://themergency.com)
